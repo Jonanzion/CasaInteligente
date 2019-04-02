@@ -5,7 +5,10 @@ class CasaInteligente
 {
 public:
     CasaInteligente();
+    
     ~CasaInteligente();
+    
+    
 
 };
 
