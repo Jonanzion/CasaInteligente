@@ -4,10 +4,17 @@
 class CasaInteligente
 {
 public:
-    CasaInteligente();
+    sensorPresenca(int);
     
     ~CasaInteligente();
     
+   void sensorPresenca(int);
+   
+   
+
+private: 
+    
+    int casares;
     
 
 };
